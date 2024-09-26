@@ -17,6 +17,7 @@ Una herramienta ofimática es un software diseñado para facilitar tareas de ofi
 
 5. Herramientas de Google !https://www.google.com/intl/es-419/chrome/browser-tools/
 
-| Aplicaciones| Visto|
-
-|
+| Aplicaciones |:Visto:|
+|---------------|------------|
+|Google Docs|https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg|
+|Google Slides|https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg|
