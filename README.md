@@ -15,15 +15,15 @@ Una aplicación web es un software interactivo que se ejecuta en un navegador y 
 
 Una herramienta ofimática es un software diseñado para facilitar tareas de oficina, como la creación, edición y gestión de documentos.
 
-5. [Herramientas de Google](!https://www.google.com/intl/es-419/chrome/browser-tools/)
+5. ![Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 | Aplicaciones | Visto |
 |---------------|------------|
-|Google Docs|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
-|Google Slides|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
-|Google Sheets|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
-|Google Calendar|![calendario](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/calendario.png)|
-|Google Meet|![ordenador](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/ordenador.jpeg)|
+|Google Docs|centered|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
+|Google Slides|centered|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
+|Google Sheets|centered|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
+|Google Calendar|centered|![calendario](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/calendario.png)|
+|Google Meet|centered|![ordenador](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/ordenador.jpeg)|
 
 6. ¿Qué es HTML?
 
