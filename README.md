@@ -15,7 +15,7 @@ Una aplicación web es un software interactivo que se ejecuta en un navegador y 
 
 Una herramienta ofimática es un software diseñado para facilitar tareas de oficina, como la creación, edición y gestión de documentos.
 
-[5. Herramientas de Google](!https://www.google.com/intl/es-419/chrome/browser-tools/)
+5. [Herramientas de Google](!https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 | Aplicaciones | Visto |
 |---------------|------------|
@@ -25,7 +25,7 @@ Una herramienta ofimática es un software diseñado para facilitar tareas de ofi
 |Google Calendar|![calendario](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/calendario.png)|
 |Google Meet|![ordenador](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/ordenador.jpeg)|
 
-6. ¿Qué es HTML ?
+6. ¿Qué es HTML?
 
 HTML es el lenguaje de marcado utilizado para estructurar y organizar el contenido de las páginas web.
 
