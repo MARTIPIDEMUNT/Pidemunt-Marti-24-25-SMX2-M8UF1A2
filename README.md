@@ -19,11 +19,11 @@ Una herramienta ofimática es un software diseñado para facilitar tareas de ofi
 
 | Aplicaciones | Visto |
 |---------------|------------|
-|Google Docs|centered|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
-|Google Slides|centered|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
-|Google Sheets|centered|![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
-|Google Calendar|centered|![calendario](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/calendario.png)|
-|Google Meet|centered|![ordenador](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/ordenador.jpeg)|
+|Google Docs|centered| ![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
+|Google Slides|centered| ![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
+|Google Sheets|centered| ![visto](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/visto.jpg)|
+|Google Calendar|centered| ![calendario](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/calendario.png)|
+|Google Meet|centered| ![ordenador](https://github.com/MARTIPIDEMUNT/cristiano/blob/main/ordenador.jpeg)|
 
 6. ¿Qué es HTML?
 
